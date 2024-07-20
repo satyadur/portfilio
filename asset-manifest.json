@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfilio/static/css/main.a79a8af0.css",
+    "main.js": "/portfilio/static/js/main.cc4718f6.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfilio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfilio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/caraecommerce.png": "/portfilio/static/media/caraecommerce.e4582d342a4ff5d583d2.png",
+    "static/media/leaf.png": "/portfilio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/Screenshot 2024-07-20 224302.png": "/portfilio/static/media/Screenshot 2024-07-20 224302.be2a523837444a349e04.png",
+    "static/media/emotion.png": "/portfilio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/portfilio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/FULLSTACKRESUME WITH PROJECT for react.pdf": "/portfilio/static/media/FULLSTACKRESUME WITH PROJECT for react.d13cc7fa1dea0ec63156.pdf",
+    "static/media/codeEditor.png": "/portfilio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/portfilio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/portfilio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfilio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/banking.png": "/portfilio/static/media/banking.36feb4132e38247f97a4.png",
+    "static/media/crudoperations.png": "/portfilio/static/media/crudoperations.3b42e52a09e85c7b1e61.png",
+    "static/media/quiz.png": "/portfilio/static/media/quiz.257b4258f2a8e7b8e1ce.png",
+    "static/media/todolist.png": "/portfilio/static/media/todolist.6ac6d589bfc5f9e96b2d.png",
+    "static/media/home-bg.jpg": "/portfilio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/SD (3).png": "/portfilio/static/media/SD (3).cb3523badb28baa82ce8.png",
+    "static/media/avatar.svg": "/portfilio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfilio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfilio/index.html",
+    "main.a79a8af0.css.map": "/portfilio/static/css/main.a79a8af0.css.map",
+    "main.cc4718f6.js.map": "/portfilio/static/js/main.cc4718f6.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfilio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfilio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a79a8af0.css",
+    "static/js/main.cc4718f6.js"
+  ]
+}
