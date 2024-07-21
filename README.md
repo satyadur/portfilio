@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://github.com/satyadur/portfilio" target="_blank">satya</a>
+  <a href="https://satyadur.github.io/" target="_blank">satya</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/satya.png" />
