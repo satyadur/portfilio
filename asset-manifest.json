@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portfilio/static/css/main.a79a8af0.css",
-    "main.js": "/portfilio/static/js/main.9e38c77a.js",
+    "main.js": "/portfilio/static/js/main.d2988804.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfilio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfilio/static/js/787.1ed0c42c.chunk.js",
     "static/media/gym.png": "/portfilio/static/media/gym.00a336a246a3a5bc4a90.png",
     "static/media/caraecommerce.png": "/portfilio/static/media/caraecommerce.e4582d342a4ff5d583d2.png",
     "static/media/leaf.png": "/portfilio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/solarsyatem.png": "/portfilio/static/media/solarsyatem.d6073b1bdbd2ecedd045.png",
     "static/media/Screenshot 2024-07-20 224302.png": "/portfilio/static/media/Screenshot 2024-07-20 224302.be2a523837444a349e04.png",
     "static/media/emotion.png": "/portfilio/static/media/emotion.eabfc16e7a146ab15778.png",
     "static/media/suicide.png": "/portfilio/static/media/suicide.9c86cd7138a398c45fa5.png",
@@ -26,12 +27,12 @@
     "static/media/pre.svg": "/portfilio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfilio/index.html",
     "main.a79a8af0.css.map": "/portfilio/static/css/main.a79a8af0.css.map",
-    "main.9e38c77a.js.map": "/portfilio/static/js/main.9e38c77a.js.map",
+    "main.d2988804.js.map": "/portfilio/static/js/main.d2988804.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfilio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfilio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a79a8af0.css",
-    "static/js/main.9e38c77a.js"
+    "static/js/main.d2988804.js"
   ]
 }
